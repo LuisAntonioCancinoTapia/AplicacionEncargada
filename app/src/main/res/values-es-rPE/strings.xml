@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aplicacion</string>
+    <string name="txt_peso">Peso</string>
+    <string name="txt_altura">Altura</string>
+    <string name="txt_ejemplo_peso">Ejemplo: 75.5</string>
+    <string name="txt_ejemplo_altura">Ejemplo: 1.80</string>
+    <string name="btn_calcular">Calcular IMC</string>
+
+    <string name="infrapeso">Infrapeso</string>
+    <string name="normal">Normal</string>
+    <string name="sobrepeso">Sobrepeso</string>
+    <string name="obesidad">Obesidad</string>
+
+    <string name="btn_volver">Volver</string>
+    <string name="txt_IMC">Su IMC es:</string>
+    <string name="txt_valor_IMC">0</string>
+    <string name="str_en">Ingles</string>
+    <string name="str_es">Español</string>
+    <string-array name="languages" >
+        <item>@string/str_en</item>
+        <item>@string/str_es</item>
+    </string-array>
+
+
+
+</resources>
